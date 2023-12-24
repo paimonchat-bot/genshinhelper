@@ -2,7 +2,7 @@
 
 ![Python 3.9+](https://img.shields.io/badge/python-3.9%20%7C%203.10-blue)
 ![GitHub](https://img.shields.io/github/license/nano-shino/genshinhelper)
-[![Discord Support Server](https://img.shields.io/discord/962617117042163772?color=%235865F2&label=discord)](https://discord.gg/Hay8zp5xfv)
+[![Discord Support Server](https://img.shields.io/discord/962617117042163772?color=%235865F2&label=discord)](https://discord.gg/hcFfnGEKjb)
 
 A Discord bot to help with your daily Genshin tasks.
 
